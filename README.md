@@ -1,10 +1,28 @@
-- 👋 Hi, I’m Nguyen Cong Gioi
-- 👀 I’m interested in Web Font-end...
-- 🌱 I’m currently learning VietNam Academy Aviation...
-- 💞️ I’m looking to collaborate on all countries...
-- 📫 Fb: fb.com/bumbum26.4 Zalo: 0367093723 email: conggioi.pro264@gmail.com...
+<!DOCTYPE html>
+<html lang="en">
 
-<!---
-gioimtg2003/gioimtg2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <link rel="stylesheet" href="test.css">
+</head>
+
+<body>
+    <main>
+        <div class="main">
+            <div class="container">
+                <div id="info" class="box">
+                    <div class="img-icon">
+                        <div class="img1"><img src="https://img.icons8.com/clouds/512/facebook-new.png" alt=""></div>
+                        <div class="img2"><img src="https://img.icons8.com/plasticine/512/zalo.png" alt=""></div>
+                        <div class="img3"><img src="https://img.icons8.com/plasticine/2x/github-squared.png" alt=""></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>

@@ -15,9 +15,7 @@
             <div class="container">
                 <div id="info" class="box">
                     <div class="img-icon">
-                        <div class="img1"><img src="https://img.icons8.com/clouds/512/facebook-new.png" alt=""></div>
-                        <div class="img2"><img src="https://img.icons8.com/plasticine/512/zalo.png" alt=""></div>
-                        <div class="img3"><img src="https://img.icons8.com/plasticine/2x/github-squared.png" alt=""></div>
+                        <div class="img1"><a href="https://fb.com/bumbum26.4"><img src="https://img.icons8.com/clouds/512/facebook-new.png" alt=""></a></div>
                     </div>
                 </div>
             </div>

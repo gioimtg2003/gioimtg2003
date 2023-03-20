@@ -9,6 +9,11 @@
   <br>
   <hr>
   <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gioimtg2003&show_icons=true" alt="GitHub Stats">
+</div>
+<br>
+  <hr>
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioimtg2003&layout=compact" alt="Top Languages">
 </div>
 

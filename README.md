@@ -1,6 +1,20 @@
 <head>
+  <style>
+  .box {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    transition: transform 0.5s ease;
+  }
+  .box:hover {
+    transform: scale(1.1);
+  }
+</style>
   </head>
  <body>
+  <div class="box">Hover me</div>
+
   <div align="center">
   <h1>Hi there, I'm Nguyen Cong Gioi 👋</h1>
   <h3>abcxyz</h3>

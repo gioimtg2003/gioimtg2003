@@ -1,4 +1,9 @@
 <div align="center">
+  <h1>Hi there, I'm Nguyen Cong Gioi 👋</h1>
+  <h3>abcxyz</h3>
+</div>
+
+<div align="center">
   <div>
     <img src="https://img.shields.io/github/followers/gioimtg2003?label=Follow&style=social" alt="Followers">
  &nbsp;  &nbsp; 

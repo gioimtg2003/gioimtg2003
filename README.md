@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://img.shields.io/github/followers/gioimtg2003?label=Follow&style=social" alt="Followers">
+  <div>
+    <p>Lượt theo dõi: </p>
+  </div>
+  <br>
   <img src="https://img.shields.io/github/stars/gioimtg2003?label=Stars&style=social" alt="Stars">
 </div>
 <br>

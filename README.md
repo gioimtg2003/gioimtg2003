@@ -1,19 +1,27 @@
 <head>
   <style>
-  .box {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    border-radius: 5px;
-    transition: transform 0.5s ease;
+  #typewriter {
+    font-size: 24px;
+    overflow: hidden;
+    border-right: .15em solid orange;
+    white-space: nowrap;
+    letter-spacing: .15em;
+    animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;
   }
-  .box:hover {
-    transform: scale(1.1);
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: orange }
   }
 </style>
   </head>
  <body>
-  <div class="box">Hover me</div>
+  <div id="typewriter">Hello world!</div>
 
   <div align="center">
   <h1>Hi there, I'm Nguyen Cong Gioi 👋</h1>

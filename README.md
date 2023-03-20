@@ -1,27 +1,7 @@
 <head>
-  <style>
-  #typewriter {
-    font-size: 24px;
-    overflow: hidden;
-    border-right: .15em solid orange;
-    white-space: nowrap;
-    letter-spacing: .15em;
-    animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;
-  }
-
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: orange }
-  }
-</style>
   </head>
  <body>
-  <div id="typewriter">Hello world!</div>
+  <div class="box">Hover me</div>
 
   <div align="center">
   <h1>Hi there, I'm Nguyen Cong Gioi 👋</h1>

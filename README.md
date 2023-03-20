@@ -18,9 +18,17 @@
 <img src="https://github.com/dopaemon/dopaemon/raw/output/dist/github-snake.svg" alt="" style="max-width: 100%;">
   <br>
   <hr>
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gioimtg2003&show_icons=true" alt="GitHub Stats">
-</div>
+  <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=gioimtg2003&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=gioimtg2003&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=gioimtg2003&show_icons=true" />
+</picture>
 <br>
   <hr>
   <div align="center">

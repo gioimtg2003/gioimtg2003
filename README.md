@@ -22,6 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioimtg2003&layout=compact" alt="Top Languages">
 </div>
 <div align="center">
-  <a href="https://www.facebook.com/bumbum26.4"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link="https://www.facebook.com/bumbum26.4"></a>
+  <a href="https://www.facebook.com/bumbum26.4" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link="https://www.facebook.com/bumbum26.4"></a>
 </div>
 

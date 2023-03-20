@@ -1,4 +1,7 @@
-<div align="center">
+<head>
+  </head>
+ <body>
+  <div align="center">
   <h1>Hi there, I'm Nguyen Cong Gioi 👋</h1>
   <h3>abcxyz</h3>
 </div>
@@ -25,3 +28,5 @@
   <a href="https://www.facebook.com/bumbum26.4" target="_blank" ><img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link="https://www.facebook.com/bumbum26.4"></a>
 </div>
 
+
+  </body>
